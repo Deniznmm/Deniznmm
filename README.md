@@ -141,7 +141,7 @@
 </a>
 
 <a href="https://scholar.google.com/citations?user=FVHdHuAAAAAJ&hl=en&oi=ao" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="48" height="48" alt="Google Scholar"/>
 </a>
 
 </p>
