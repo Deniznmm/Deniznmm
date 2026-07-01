@@ -34,7 +34,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=python, matlab, react"/>
 </p>
 
 ### AI / ML
