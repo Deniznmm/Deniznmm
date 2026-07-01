@@ -132,21 +132,19 @@
 
 <p align="center">
 
-<a href="https://github.com/Deniznmm">
-  <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Deniznmm" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/deniz-mohammadzadeh/">
-  <img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/deniz-mohammadzadeh/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://scholar.google.com/citations?user=FVHdHuAAAAAJ&hl=en&oi=ao">
-  <img src="https://img.shields.io/badge/Google%20Scholar-FBBF24?style=for-the-badge&logo=googlescholar&logoColor=black"/>
+<a href="https://scholar.google.com/citations?user=FVHdHuAAAAAJ&hl=en&oi=ao" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
 </a>
 
 </p>
-
----
 
 <div align="center">
 
