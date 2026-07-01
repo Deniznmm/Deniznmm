@@ -66,13 +66,13 @@
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,docker"/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,docker"/>
 </p>
 
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,linux,docker,kubernetes,githubactions"/>
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes"/>
 </p>
 
 ---
