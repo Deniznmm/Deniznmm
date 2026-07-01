@@ -35,7 +35,12 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,r" />
-  <img src="https://cdn.simpleicons.org/mathworks/0076A8" width="48" height="48" [alt="MATLAB](https://cdn.simpleicons.org/matlab)" />
+  <img src="https://cdn.simpleicons.org/mathworks/0076A8" width="48" height="48" alt="MATLAB" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,r" />
+  <img src="https://cdn.simpleicons.org/mathworks/0076A8" width="48" height="48" alt="MathWorks" />
 </p>
 
 ### AI / ML
