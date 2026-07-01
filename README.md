@@ -56,11 +56,10 @@
 
 <p>
 
-<img src="https://img.shields.io/badge/Pinecone-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Qdrant-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Weaviate-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FAISS-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Chroma-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pinecone-3B82F6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qdrant-F97316?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-1E293B?style=for-the-badge&logoColor=FBBF24"/>
+<img src="https://img.shields.io/badge/Chroma-FBBF24?style=for-the-badge&logoColor=black"/>
 
 </p>
 
