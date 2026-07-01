@@ -42,7 +42,7 @@
 <p>
 
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LlamaIndex-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LlamaIndex-yellow?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/vLLM-black?style=for-the-badge"/>
