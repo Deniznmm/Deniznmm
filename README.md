@@ -33,8 +33,7 @@
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,r" />
-  <img src="https://cdn.simpleicons.org/mathworks/0076A8" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,r"/>
 </p>
 
 ### AI / ML
@@ -91,16 +90,6 @@
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Deniznmm&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deniznmm&theme=react-dark"/>
 
 </p>
 
