@@ -136,12 +136,13 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://linkedin.com/in/
+www.linkedin.com/in/deniz-mohammadzadeh">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="google schoolar:https://scholar.google.com/citations?user=FVHdHuAAAAAJ&hl=en&oi=ao">
+<img src="https://googleschoolar.dev/icons?i=gmail"/>
 </a>
 
 </p>
