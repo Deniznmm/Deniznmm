@@ -34,7 +34,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,go,rust,bash"/>
+<img src="https://skillicons.dev/icons?i=python,Matlab"/>
 </p>
 
 ### AI / ML
