@@ -132,17 +132,18 @@
 
 <p>
 
-<a href="https://github.com/Deniznmm">
-<img src="https://skillicons.dev/icons?i=github"/>
+<p align="center">
+
+<a href="https://github.com/Deniznmm" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/
-www.linkedin.com/in/deniz-mohammadzadeh">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/deniz-mohammadzadeh/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="google schoolar:https://scholar.google.com/citations?user=FVHdHuAAAAAJ&hl=en&oi=ao">
-<img src="https://googleschoolar.dev/icons?i=gmail"/>
+<a href="https://scholar.google.com/citations?user=FVHdHuAAAAAJ&hl=en&oi=ao" target="_blank">
+  <img src="https://cdn.simpleicons.org/googlescholar/FBBF24" height="48" width="48"/>
 </a>
 
 </p>
@@ -150,8 +151,6 @@ www.linkedin.com/in/deniz-mohammadzadeh">
 ---
 
 <div align="center">
-
-### "Large Language Models are not the destination—they are the foundation for intelligent systems."
 
 ⭐ Thanks for visiting!
 
