@@ -11,22 +11,20 @@
 
 ---
 
-# 🧠 About Me
-
 ```yaml
-**Role:**
-LLM Engineer
+🚀 Role:
+  LLM Engineer
 
-**Focus:**
-● AI Agents
-● Retrieval-Augmented Generation (RAG)
-● Fine-Tuning
-● LLM Evaluation
-● Prompt Engineering
-● Reinforcement Learning
+🧠 Focus:
+  ● AI Agents
+  ● Retrieval-Augmented Generation (RAG)
+  ● Fine-Tuning
+  ● LLM Evaluation
+  ● Prompt Engineering
+  ● Reinforcement Learning
 
-**Mission:**
-Build AI systems that solve real-world problems.
+🎯 Mission:
+  Build AI systems that solve real-world problems.
 ```
 
 ---
