@@ -128,31 +128,6 @@
 
 ---
 
-# 💡 AI Philosophy
-
-```python
-class LLMEngineer:
-
-    def __init__(self):
-        self.name = "Deniz"
-        self.role = "LLM Engineer"
-
-    def build(self):
-        return [
-            "AI Agents",
-            "RAG Systems",
-            "Fine-Tuning",
-            "Prompt Engineering",
-            "MLOps",
-            "Scalable AI Applications"
-        ]
-
-    def motto(self):
-        return "Build AI that creates real value."
-```
-
----
-
 # 🌍 Connect
 
 <p>
