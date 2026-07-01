@@ -32,22 +32,15 @@
 # 🚀 AI Stack
 
 ### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,r" />
-  <img src="https://cdn.simpleicons.org/mathworks/0076A8" width="48" height="48" alt="MATLAB" />
-</p>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,r" />
-  <img src="https://cdn.simpleicons.org/mathworks/0076A8" width="48" height="48" alt="MathWorks" />
+  <img src="https://cdn.simpleicons.org/mathworks/0076A8" width="48" height="48" />
 </p>
 
 ### AI / ML
 <p align="center">
 
 <img src="https://cdn.simpleicons.org/python/FBBF24" width="48" />
-<img src="https://cdn.simpleicons.org/openai/3B82F6" width="48" />
 <img src="https://cdn.simpleicons.org/langchain/F97316" width="48" />
 <img src="https://cdn.simpleicons.org/huggingface/FBBF24" width="48" />
 <img src="https://cdn.simpleicons.org/ollama/F97316" width="48" />
