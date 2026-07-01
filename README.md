@@ -123,6 +123,6 @@
 
 <div align="center">
 
-⭐ Thanks for visiting!
+# 𝑻𝒉𝒂𝒏𝒌𝒔 𝒇𝒐𝒓 𝒗𝒊𝒔𝒊𝒕𝒊𝒏𝒈! ⭐
 
 </div>
