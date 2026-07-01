@@ -1,14 +1,11 @@
 ## Hi there 👋
-
 <div align="center">
 
-# 👋 Hey, I'm Deniz
+# 👋 Hi, I'm Deniz
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Developer;Open+Source+Enthusiast;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=LLM+Engineer;AI+Systems+Developer;Building+AI+Agents;RAG+%7C+Fine-Tuning+%7C+MLOps;Always+Shipping+AI"/>
 
----
-
-### 🚀 Building Ideas into Reality
+### Building intelligent systems powered by Large Language Models.
 
 <img src="https://komarev.com/ghpvc/?username=Deniznmm&style=for-the-badge&color=blueviolet"/>
 
@@ -16,68 +13,98 @@
 
 ---
 
-# 💫 About Me
+# 🧠 About Me
 
 ```yaml
-Name: Deniz
-Role: Software Engineer
-Location: Earth 🌍
-Passion:
-  - Backend Development
-  - Clean Architecture
-  - Open Source
-  - AI
+Role: LLM Engineer
+
+Focus:
+  - AI Agents
+  - Retrieval-Augmented Generation (RAG)
+  - Fine-Tuning
+  - LLM Evaluation
+  - Prompt Engineering
+  - AI Infrastructure
+
 Currently Learning:
-  - Rust
-  - Kubernetes
-  - Distributed Systems
-Dream:
-  - Build products used by millions 🚀
+  - Multi-Agent Systems
+  - Model Optimization
+  - Reinforcement Learning
+  - AI Security
+
+Mission:
+  Build AI systems that solve real-world problems.
 ```
 
 ---
 
-# ⚡ Tech Stack
+# 🚀 AI Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,java,js,ts,go,rust"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,go,rust,bash"/>
+</p>
+
+### AI / ML
+
+<p>
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LlamaIndex-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/vLLM-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge"/>
+
+</p>
+
+### Vector Databases
+
+<p>
+
+<img src="https://img.shields.io/badge/Pinecone-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qdrant-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Weaviate-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Chroma-purple?style=for-the-badge"/>
+
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet,spring,express,django,flask"/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,docker"/>
 </p>
 
-### Frontend
+### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
-</p>
-
-### DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,githubactions"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,linux,docker,kubernetes,githubactions"/>
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 🤖 What I Build
+
+- AI Agents
+- Multi-Agent Systems
+- RAG Pipelines
+- Knowledge Assistants
+- LLM APIs
+- Chatbots
+- AI Automation
+- Semantic Search
+- Document Intelligence
+- Tool Calling Systems
+- AI Copilots
+- Evaluation Pipelines
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -99,11 +126,11 @@ Dream:
 
 ---
 
-# 🐍 Snake Eating My Contributions
+# 📈 Activity Graph
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deniznmm&theme=react-dark"/>
 
 </p>
 
@@ -113,23 +140,48 @@ Dream:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Deniznmm&theme=algolia&no-frame=true&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Deniznmm&theme=algolia&no-frame=true&column=4"/>
 
 </p>
 
 ---
 
-# 📈 Activity Graph
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deniznmm&theme=tokyo-night"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-# 🌎 Connect With Me
+# 💡 AI Philosophy
+
+```python
+class LLMEngineer:
+
+    def __init__(self):
+        self.name = "Deniz"
+        self.role = "LLM Engineer"
+
+    def build(self):
+        return [
+            "AI Agents",
+            "RAG Systems",
+            "Fine-Tuning",
+            "Prompt Engineering",
+            "MLOps",
+            "Scalable AI Applications"
+        ]
+
+    def motto(self):
+        return "Build AI that creates real value."
+```
+
+---
+
+# 🌍 Connect
 
 <p>
 
@@ -151,12 +203,8 @@ Dream:
 
 <div align="center">
 
-### 💭 Favorite Quote
+### "Large Language Models are not the destination—they are the foundation for intelligent systems."
 
-> *"Code is like humor. When you have to explain it, it's bad."*
+⭐ Thanks for visiting!
 
----
-
-⭐ If you like my work, give a star to my repositories!
-
-</div>  
+</div>
