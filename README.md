@@ -5,7 +5,7 @@
 
 ### Building intelligent systems powered by Large Language Models.
 
-<img src="https://komarev.com/ghpvc/?username=Deniznmm&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=Deniznmm&style=for-the-badge&color=orange"/>
 
 </div>
 
