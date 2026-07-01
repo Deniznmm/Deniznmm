@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Deniz NoorMohammadzadehMaleki
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=800&color=F97316&center=true&vCenter=true&width=700&lines=LLM+Engineer;AI+Systems+Developer;Building+AI+Agents;RAG+%7C+Fine-Tuning+%7C"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=800&color=F97316&center=true&vCenter=true&width=700&lines=LLM+Engineer;AI+Systems+Developer;Building+AI+Agents;RAG+%7C+Fine-Tuning"/>
 
 ### Building intelligent systems powered by Large Language Models.
 
