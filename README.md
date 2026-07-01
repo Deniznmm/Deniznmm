@@ -22,13 +22,7 @@ Focus:
   - Fine-Tuning
   - LLM Evaluation
   - Prompt Engineering
-  - AI Infrastructure
-
-Currently Learning:
-  - Multi-Agent Systems
-  - Model Optimization
   - Reinforcement Learning
-  - AI Security
 
 Mission:
   Build AI systems that solve real-world problems.
