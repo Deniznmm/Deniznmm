@@ -93,18 +93,6 @@
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Deniznmm&theme=algolia&no-frame=true&column=4"/>
-
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
