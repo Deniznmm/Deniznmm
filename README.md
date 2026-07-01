@@ -88,6 +88,26 @@
 - AI Automation
 ---
 
+## 🤖 AI Toolbox
+
+| Category | Technologies |
+|----------|--------------|
+| LLM APIs | OpenAI, Anthropic, Gemini |
+| Frameworks | LangChain, LlamaIndex |
+| Local Models | Ollama, vLLM |
+| Vector DB | Pinecone, Chroma, FAISS |
+| ML | PyTorch, Transformers |
+| Deployment | FastAPI, Docker, Kubernetes |
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 AI Agent | Autonomous multi-agent workflow |
+| 📚 RAG Pipeline | Enterprise document search |
+| 🧠 Fine-Tuning | Domain-specific LLM adaptation |
+| 🔍 Semantic Search | Hybrid retrieval engine |
+
 # 🔥 Contribution Streak
 
 <p align="center">
