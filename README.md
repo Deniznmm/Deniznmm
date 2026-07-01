@@ -52,6 +52,19 @@
 
 </p>
 
+<p>
+
+<img src="https://img.shields.io/badge/LangChain-1E293B?style=for-the-badge&logo=langchain&logoColor=FBBF24"/>
+<img src="https://img.shields.io/badge/LlamaIndex-F97316?style=for-the-badge&logo=llama&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_API-3B82F6?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FBBF24?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/vLLM-1E293B?style=for-the-badge&logo=nvidia&logoColor=76B900"/>
+<img src="https://img.shields.io/badge/Ollama-F97316?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-3B82F6?style=for-the-badge&logo=huggingface&logoColor=FBBF24"/>
+<img src="https://img.shields.io/badge/PyTorch-F97316?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+</p>
+
 ### Vector Databases
 
 <p>
