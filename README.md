@@ -72,7 +72,7 @@
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes"/>
 </p>
 
 ---
@@ -86,12 +86,6 @@
 - LLM APIs
 - Chatbots
 - AI Automation
-- Semantic Search
-- Document Intelligence
-- Tool Calling Systems
-- AI Copilots
-- Evaluation Pipelines
-
 ---
 
 # 📊 GitHub Stats
